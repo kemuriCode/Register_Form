@@ -1,0 +1,7 @@
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/repositories/ConferenceApplicationRepository.java
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/repositories/DummyConferenceApplicationRepository.java
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/web/filters/RegistrationClosedFilter.java
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/domain/ConferenceApplication.java
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/test/TestAddApplicantServlet.java
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/web/AddApplicantServlet.java
+/opt/devel/workspace/JAZ_RegisterForm/JAZ_RegisterForm/src/main/java/web/filters/ApplicationDataInSessionFilter.java

@@ -1,0 +1,7 @@
+web/AddApplicantServlet.class
+web/filters/ApplicationDataInSessionFilter.class
+repositories/ConferenceApplicationRepository.class
+domain/ConferenceApplication.class
+web/filters/RegistrationClosedFilter.class
+repositories/DummyConferenceApplicationRepository.class
+test/TestAddApplicantServlet.class
